@@ -29,7 +29,7 @@
 	<div class="columns">
 		<div class="callout">
 			<h4>A quite boring game of matching 3 cards in a row by suit or type.</h4>
-			<p>Built with Svelte, Sapper, Foundation CSS and Typescript.</p>
+			<p>Built with Svelte, Sapper, Foundation CSS, Typescript and AWS.</p>
 			<p>Drag cards onto the grid. Three in a row with a matching suit or type will be scored. See how long you can go for!</p>
 			<p><strong>Example scoring combinations:</strong><br> Jack, Ten and Four of Hearts. Nine of Hearts, Clubs and Diamonds.</p>
 			<p><a href="/dragger" class="button primary">Let's play!</a></p>

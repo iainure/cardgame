@@ -9,6 +9,7 @@
 	<li>Svelte and Sapper</li>
 	<li>Typescript</li>
 	<li>Foundation CSS framework</li>
+	<li>AWS API, Lambda and DynamoDB services</li>
 </ul>
 <p>
 	<a href="mailto:iainure56@gmail.com">Email me</a><br>
