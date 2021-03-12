@@ -131,7 +131,7 @@
 </script>
 
 <svelte:head>
-	<title>Drag and drop</title>
+	<title>Three in a Row</title>
 </svelte:head>
 
 <div class="board">

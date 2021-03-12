@@ -7,8 +7,8 @@
 
 	const dispatch = createEventDispatcher()
 
-	let name: string = 'iain'
-	let email: string = 'iain@ure.com'
+	let name: string = ''
+	let email: string = ''
 
 	let nameInvalid: boolean = false
 	let emailInvalid: boolean = false

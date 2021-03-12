@@ -13,4 +13,12 @@ This game was built by Iain Ure with the intention of dabbling in:
 
 Update `const awsKey = 'AWS_API_KEY'` in [api.ts](https://github.com/iainure/cardgame/blob/main/src/api/api.ts) with the AWS key.
 
-Then `npm run start` to begin a local server on `https://localhost:3000`
+`npm run build` to generate the files.
+
+Then `npm run start` to begin a local server on `http://localhost:3000`.
+
+## development
+
+`npm run dev` will start a server on `http://localhost:3000` which will hot reload.
+
+Run `npm run validate` to check the code for typescript errors. You can also use `npm run validateWatch` to watch for changes and validate.

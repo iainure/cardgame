@@ -22,7 +22,7 @@
 
 
 <svelte:head>
-	<title>Card Row Game</title>
+	<title>Three in a Row</title>
 </svelte:head>
 
 <div class="row">
