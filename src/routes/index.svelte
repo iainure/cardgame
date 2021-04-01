@@ -16,7 +16,7 @@
 
 	})
 
-	$: results = scores.slice(0, limit).sort((r1, r2) => r2.score - r1.score)
+	$: results = scores.sort((r1, r2) => r2.score - r1.score).slice(0, limit)
 
 </script>
 
